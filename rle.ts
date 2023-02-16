@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import fs from "fs";
 import { parse } from 'ts-command-line-args';
 import path from "path";
